@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PRAK6</string>
+
+    <string-array name="list_makanan">
+        <item>Nasi Goreng</item>
+        <item>Bakso</item>
+        <item>Nasi Soto</item>
+        <item>Nasi Ayam</item>
+        <item>Nasi Lele</item>
+        <item>Mie Goreng</item>
+        <item>Mie Ramen</item>
+    </string-array>
+
+    <string-array name="list_layanan">
+        <item>Konsultasi Akademik</item>
+        <item>Konsultasi Skripsi</item>
+        <item>Konsultasi Beasiswa</item>
+        <item>Konsultasi Karier</item>
+    </string-array>
+
+</resources>
